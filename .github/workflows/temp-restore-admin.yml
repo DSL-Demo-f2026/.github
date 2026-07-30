@@ -1,9 +1,0 @@
-name: Temp restore admin
-on: workflow_dispatch
-jobs:
-  restore:
-    runs-on: ubuntu-latest
-    steps:
-      - env:
-          GH_TOKEN: ${{ secrets.DSL_BOT_TOKEN }}
-        run: gh api -X PUT orgs/DSL-Demo-f2026/memberships/henrycgbaker -f role=admin --jq '.role'
