@@ -23,11 +23,19 @@ org; updates on every release.
 | [welcome](https://github.com/DSL-Demo-f2026/welcome) | public | Course front door - open a Join issue to enrol |
 | [assignment-1](https://github.com/DSL-Demo-f2026/assignment-1) | private | assignment-1 - cohort assignment template |
 | [assignment-1-henrycgbaker](https://github.com/DSL-Demo-f2026/assignment-1-henrycgbaker) | private | assignment-1 - submission repo |
+| [assignment-3-project](https://github.com/DSL-Demo-f2026/assignment-3-project) | private | assignment-3-project - cohort assignment template |
+| [assignment-3-project-team-alpha](https://github.com/DSL-Demo-f2026/assignment-3-project-team-alpha) | private | assignment-3-project - submission repo |
+| [assignment-3-project-team-beta](https://github.com/DSL-Demo-f2026/assignment-3-project-team-beta) | private | assignment-3-project - submission repo |
+| [assignment-3-project-team-gamma](https://github.com/DSL-Demo-f2026/assignment-3-project-team-gamma) | private | assignment-3-project - submission repo |
 | [classroom-config](https://github.com/DSL-Demo-f2026/classroom-config) | private | PRIVATE cohort config - roster (students.csv). No PII leaves here. |
 | [dsl-demo-f2026.github.io](https://github.com/DSL-Demo-f2026/dsl-demo-f2026.github.io) | public | Course website (auto-deployed on push) |
+| [grades-henrycgbaker](https://github.com/DSL-Demo-f2026/grades-henrycgbaker) | private | Private gradebook for @henrycgbaker |
 | [labs](https://github.com/DSL-Demo-f2026/labs) | private | Released course materials (enrolled students only) |
 | [lectures](https://github.com/DSL-Demo-f2026/lectures) | private | Released course materials (enrolled students only) |
 | [readings](https://github.com/DSL-Demo-f2026/readings) | private | Released course materials (enrolled students only) |
+
+_Teaching staff (instructors, TAs, faculty assistants): your action buttons aren't here - they live in the
+parent **course org's** `.github` control panel, on its Actions tab._
 
 ---
 _Hertie Data Science Lab. This page is auto-generated._
