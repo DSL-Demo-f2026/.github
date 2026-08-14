@@ -1,6 +1,6 @@
-# DSL-Demo-f2026 - cohort control repo
+# hertie-dsl-demo-f2026 - cohort control repo
 
-This is the **`.github` repo** for the `DSL-Demo-f2026` cohort org. It holds this cohort's configuration
+This is the **`.github` repo** for the `hertie-dsl-demo-f2026` cohort org. It holds this cohort's configuration
 and the auto-generated student-facing org page - **faculty, instructors and faculty assistants (FAs) delivering the course rarely need to touch it directly.**
 
 - The **faculty & instructors action buttons** (Release, Grade, Sync ...) live in the **parent course org's**
